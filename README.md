@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [Screenshot](#Screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -20,10 +19,6 @@ Users should be able to:
 - See all the schools of Kathmandu
 - Click on a school and gain information about that school.
 
-
-### Links
-
-- Live Site URL: (https://ayush-react-ip-tracker.netlify.app/)
 
 ## My process
 
