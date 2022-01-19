@@ -13,7 +13,7 @@
 
 ### Screenshot
 
-![Screenshot](/public.screenshot.png?raw=true "Screenshot")
+![Screenshot](/public/screenshot.png?raw=true "Screenshot")
 
 Users should be able to:
 
